@@ -43,9 +43,11 @@ Feel free to connect if you're interested in **collaborations**, **innovative te
 
 ## 🚀 Featured Projects with Demos
 
-- [**Delicious Recipe App**](https://github.com/mamadaliyev66/delicious_-__React_APP__-)
-  - 🍔 **Delicious Recipes** at your fingertips. An app powered by **React** with dynamic API calls.
-  - ![Delicious GIF](https://media.giphy.com/media/YZ7IWkBz5sMl5qHcxN/giphy.gif)
+
+- [**Early Fire Detection System (EFDS)**](https://github.com/mamadaliyev66/EarlyFireDetectionSystem)
+  - 🔥 **Detects fires in real-time** using **AI and OpenCV**. Designed for early response in emergencies.
+  - ![EFDS Demo GIF](https://media.giphy.com/media/YZ7IWkBz5sMl5qHcxN/giphy.gif)
+
 
 ---
 
@@ -60,7 +62,13 @@ Here’s how I approach building things from scratch:
 ![Workflow](https://example.com/workflow-animation.gif)
 
 ---
+## 💬 Let's Connect
 
+I'm always open to collaborating, whether it's for **open-source** contributions or exciting new projects. Reach out if you think we can build something **awesome** together!
+
+- [LinkedIn]([https://www.linkedin.com/in/mamadaliyev](https://www.linkedin.com/in/muhammadamin-mamadaliyev-a87307353))
+- [Telegram](https://t.me/Just_Takoshi)
+- Email: [nethuntermm@gmail.com]
 
 ### 🎉 Fun Fact
 I’m always on the lookout for new technologies and creative ways to integrate them into real-world applications. Whether it’s building **AI-powered solutions** or exploring **robotics**, I love experimenting with new ideas!
