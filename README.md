@@ -33,13 +33,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer**, **U
 
 ---
 
-## 🔗 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/mamadaliyev) 
-- [Twitter](https://twitter.com/mamadaliyev66) 
-- [Email](mailto:mamadaliyev66@example.com)
-
-Feel free to connect if you're interested in **collaborations**, **innovative tech**, or **creative projects**. Let's build something amazing together!
 
 ## 🚀 Featured Projects with Demos
 
