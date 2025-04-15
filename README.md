@@ -2,17 +2,62 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer**, **UI/UX Designer**, and **Robotics Engineer**. I believe in **building scalable solutions** that can solve real-world problems. From designing **sleek user interfaces** to coding **backend systems**, I enjoy the whole process.
 
+
+## Tech Stack
+
+### **Frontend**:
+- **HTML5**: Structuring web content.
+- **CSS3**: Styling and layout.
+- **JavaScript**: Dynamic web behavior.
+- **React.js**: Building interactive UIs.
+- **Tailwind CSS**: Utility-first CSS framework.
+- **TypeScript**: JavaScript with type safety.
+- **Sass/SCSS**: CSS preprocessor for cleaner styles.
+
+### **Backend**:
+- **Node.js**: JavaScript runtime for the backend.
+- **Express.js**: Web application framework for Node.js.
+- **Django/Flask**: Python web frameworks for rapid development.
+- **PHP (Laravel)**: Web application framework in PHP.
+
+### **Databases**:
+- **MySQL / PostgreSQL**: Relational database management systems.
+- **MongoDB**: NoSQL database for flexible data structures.
+- **Firebase / Supabase**: Real-time NoSQL databases.
+
+### **Version Control**:
+- **Git**: Version control system.
+- **GitHub / GitLab / Bitbucket**: Platforms for hosting repositories.
+
+### **Authentication**:
+- **OAuth**: Open standard for access delegation.
+- **JWT**: JSON Web Tokens for secure authentication.
+- **Firebase Authentication**: Auth system for apps.
+
+### **DevOps**:
+- **Docker**: Containerization for development environments.
+- **Kubernetes**: Container orchestration.
+- **CI/CD**: GitHub Actions, Jenkins, Travis CI for continuous integration and deployment.
+- **Nginx / Apache**: Web servers for hosting applications.
+
+### **Testing**:
+- **Jest**: JavaScript testing framework.
+- **Mocha / Chai**: Test framework and assertion library.
+- **Cypress / Selenium**: E2E testing frameworks for web apps.
+
+### **Deployment**:
+- **Vercel / Netlify**: Deployment platforms for React apps.
+- **Heroku**: Cloud platform for hosting full-stack apps.
+- **AWS / Google Cloud / Azure**: Cloud service providers.
+
+### **Others**:
+- **GraphQL / REST API**: APIs for data exchange.
+- **WebSockets**: Real-time communication between client and server.
+- **Webpack / Parcel**: Module bundlers for optimizing JavaScript code.
+- **Babel**: JavaScript compiler for compatibility.
+- **ESLint / Prettier**: Code quality and formatting tools.
+
 ---
-
-## 🚀 Technologies & Tools
-
-- **Frontend:** React.js, Tailwind CSS, Next.js, HTML/CSS
-- **Backend:** Node.js, Firebase (Firestore, Functions, Auth)
-- **Design:** Figma, Adobe XD, Sketch
-- **Robotics:** ROS, Python, C++
-
----
-
 ## 🛠️ Projects I'm Proud Of
 
 - [**Portfolio**](https://mamadaliyev.vercel.app): My **React.js** & **Tailwind CSS** powered portfolio to showcase my skills, projects, and journey.
