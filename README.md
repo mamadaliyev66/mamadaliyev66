@@ -46,7 +46,7 @@ Feel free to connect if you're interested in **collaborations**, **innovative te
 
 - [**Early Fire Detection System (EFDS)**](https://github.com/mamadaliyev66/EarlyFireDetectionSystem)
   - 🔥 **Detects fires in real-time** using **AI and OpenCV**. Designed for early response in emergencies.
-  - !(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d2ZXIxbTdvaWJtNHV1am9hY2c3emZybjF5NXJyM3QzeWhlZmcxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOmRtaBJqlAbuP2M23/giphy.gif)
+  - ![EFDS](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d2ZXIxbTdvaWJtNHV1am9hY2c3emZybjF5NXJyM3QzeWhlZmcxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOmRtaBJqlAbuP2M23/giphy.gif)
 
 
 ---
