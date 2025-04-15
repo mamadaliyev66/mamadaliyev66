@@ -66,7 +66,7 @@ Here’s how I approach building things from scratch:
 
 I'm always open to collaborating, whether it's for **open-source** contributions or exciting new projects. Reach out if you think we can build something **awesome** together!
 
-- [LinkedIn]([https://www.linkedin.com/in/mamadaliyev](https://www.linkedin.com/in/muhammadamin-mamadaliyev-a87307353))
+- [LinkedIn](https://www.linkedin.com/in/muhammadamin-mamadaliyev-a87307353)
 - [Telegram](https://t.me/Just_Takoshi)
 - Email: [nethuntermm@gmail.com]
 
